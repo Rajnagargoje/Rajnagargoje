@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajnagargoje
 - 👀 I’m interested in watchng movies, playing chess
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently Ionic React Js
 - 📫 How to reach me :   g_a_n_e_s_h_n_
 
 <!---
