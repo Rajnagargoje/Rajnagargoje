@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rajnagargoje
+- 👋 Hi, I’m Ganesh Nagargoje
 - 👀 I’m interested in watchng movies, playing chess
-- 🌱  java,react,ionic react, js 
+- 🌱  core java , springBoot, react js , typescript, ionic react, js
 - 📫 How to reach me :   g_a_n_e_s_h_n_
 
 <!---
